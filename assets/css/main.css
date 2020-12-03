@@ -3131,7 +3131,7 @@ ul.icons li .icon:before {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("/images/switch.jpg");
+  background-image: url("http://viruchith.com/images/switch.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
