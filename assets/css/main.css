@@ -1,4 +1,4 @@
-@import url("font-awesome.min.css");
+@import url("https://cdn.jsdelivr.net/gh/viruchith/blog-static@4b0b3f3/assets/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
 
 /*
@@ -44,19 +44,18 @@
 #success {
   color: green;
 }
-
 /* Search Bar */
-#search {
-  width: 200px;
-  height: 25px;
-  color: black;
-  background-color: grey;
-}
+        #search {
+          width: 200px;
+          height: 25px;
+          color: black;
+          background-color: grey;
+        }
 
-#search-btn {
-  font-size: 0.8rem;
-  position: relative;
-}
+        #search-btn {
+          font-size: 0.8rem;
+          position: relative;
+        }
 
 /* Individual post thumbnail and image */
 .view-image {
@@ -3132,7 +3131,7 @@ ul.icons li .icon:before {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("../../images/switch.jpg");
+  background-image: url("https://viruchith.com/images/switch.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3506,7 +3505,7 @@ body.is-preload #banner:before {
   background-color: #02a0f5;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
-  background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(../../images/cta01.jpg);
+  background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(https://viruchith.com/images/cta01.jpg);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4040,7 +4039,7 @@ body {
 
 body:before {
   content: ' ';
-  background-image: url(../../images/bg.jpg);
+  background-image: url(https://viruchith.com/images/bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -4179,7 +4178,7 @@ body:before {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: linear-gradient(rgba(17, 17, 17, 0.25), rgba(17, 17, 17, 0.25)), url("../../images/switch.jpg");
+  background-image: linear-gradient(rgba(17, 17, 17, 0.25), rgba(17, 17, 17, 0.25)), url("https://viruchith.com/images/switch.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
