@@ -3131,7 +3131,7 @@ ul.icons li .icon:before {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("https://viruchith.com/images/switch.jpg");
+  background-image: url("https://cdn.jsdelivr.net/gh/viruchith/blog-static@ce7dc29/switch.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4039,7 +4039,7 @@ body {
 
 body:before {
   content: ' ';
-  background-image: url(https://viruchith.com/images/bg.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/viruchith/blog-static@ce7dc29/bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
